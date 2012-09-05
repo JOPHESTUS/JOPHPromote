@@ -1,0 +1,15 @@
+###############################################
+#           JOPHPromote Config                #
+###############################################
+
+# The group the user will be ranked to
+groupname: 'groupname'
+
+# The phrase that the user has to say to be ranked up (case insensitive)
+rankupmessage: 'I will obey the rules'
+
+# The name of the group to be announced when a user ranks up (To make it look nicer if you have a group like basic_member - would be Basic Member)
+announcegroupname: 'groupname'
+
+# Give the user stone tools and 5 torches?
+givetools: true

@@ -1,0 +1,9 @@
+name: JOPHPromote
+main: me.jophestus.JOPHPromote.JOPHPromote
+version: 2.2
+description: A simple promotion plugin.
+commands:
+    JOPHPromote:
+        description: Lists JOPHPromote info.
+author: JOPHESTUS
+depend: [Vault]
